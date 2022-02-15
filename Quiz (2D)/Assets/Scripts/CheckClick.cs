@@ -30,7 +30,7 @@ public class CheckClick : MonoBehaviour
             }
         }
     }
-
+    
     private void HitObject()
     {
         DisableClick(_renderLevel.NeedFindObjectObject);
